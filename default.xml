@@ -1094,5 +1094,6 @@
 
   <!-- amyROM -->
   <include name="snippets/amy.xml" />
+  <include name="snippets/lineage.xml" />
 
 </manifest>

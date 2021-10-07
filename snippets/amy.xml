@@ -4,4 +4,9 @@
 		revision="sarah"
 		fetch="https://github.com/amyROM" />
 
+	<project path="frameworks/base" name="frameworks_base" remote="amy" />
+
+	<project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="amy" />
+	<project path="packages/apps/Settings" name="packages_apps_Settings" remote="amy" />
+
 </manifest>
